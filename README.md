@@ -1,7 +1,7 @@
 # Storex
 
 
-### Screenshots
+### Screenshots 📷 
 ![Homepage](https://github.com/KunalMahato11/ecom-app/blob/master/client/src/assets/1.png)
 
 ![Shoppage](https://github.com/KunalMahato11/ecom-app/blob/master/client/src/assets/2.png)
